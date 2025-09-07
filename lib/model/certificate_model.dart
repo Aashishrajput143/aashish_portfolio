@@ -37,13 +37,6 @@ List<CertificateModel> certificateList = [
     credential: 'https://drive.google.com/file/d/1-9rxKYzhN0BcCwbasSkCEjN3mQbOMJuM/view?usp=sharing',
   ),
   // CertificateModel(
-  //   name: 'Flutter REST Movie App',
-  //   organization: 'Udemy',
-  //   date: 'AUG 2023',
-  //   skills: 'Flutter . Rest API\'s . Cloud',
-  //   credential: 'https://www.udemy.com/certificate/UC-22efc7ca-3df5-4f26-8025-4a1bd2672f19/',
-  // ),
-  // CertificateModel(
   //   name: 'Modularizing and Organizing Flutter Code',
   //   organization: 'LinkedIn',
   //   date: 'JUL 2023',
